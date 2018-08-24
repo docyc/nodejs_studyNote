@@ -1,0 +1,298 @@
+/* CSS Document */
+#att_intro{
+	line-height:20px;
+	width:980px;
+	margin:0 auto;
+	color:#333333 !important;
+	
+}
+#att_list_coll{
+	width:484px;
+	height:300px;
+	float:left;
+
+}
+#att_list_coll_content{
+	width:484px;
+	height:245px;
+}
+#att_list_union{
+	width:236px;
+	margin-left:0px;
+	height:300px;
+	float:left;
+
+	margin-left:12px;
+}
+#att_list_cor{
+	width:236px;
+	margin-left:12px;
+	height:300px;
+	float:left;
+	
+}
+.att_list{
+	width:236px;
+	height:280px;
+	float:left;
+
+}
+.att_list_back{
+	height:245px;
+	background:url("images_bg_1-1.jpg")/*tpa=http://www.blackant.cn/eng/images/images_bg_1.jpg*/;
+}
+.att_list_line{
+	border-top:4px solid #666;
+	background:#666;
+	display:block;
+	height:0px;
+	width:236px;
+}
+.att_1314list_line{
+	border-top:4px solid ;
+	height:0px;
+	background:#666;
+	display:block;
+	line-height:0px;
+	width:365px;
+}
+.att_list_jiange{
+	width:12px;
+	height:245px;
+	float:left;
+}
+.att_list_title{
+	
+	line-height:20px;
+	
+	height:30px;
+}
+.att_list_title_txt_1{
+	display:block;
+	float:left;
+
+	width:300px;
+}
+.att_list_title_more_1{
+	display:block;
+	float:left;
+	font-size:11px;
+	margin-left:140px;
+	margin-top:5px;
+}
+.att_list_title_more_1 a{
+	color:#999;
+	
+}
+.att_list_title_more_1 a:hover{
+	color:#333;
+	text-decoration:none;
+}
+.att_list_title_more a{
+	color:#999;
+	
+}
+.att_list_title_more a:hover{
+	color:#333;
+	text-decoration:none;
+}
+.att_list_title_txt{
+	display:block;
+	float:left;
+
+	margin-top:4px;
+	width:200px;
+}
+.att_list_title_more{
+	display:block;
+	float:left;
+	font-size:11px;
+	
+	margin-top:5px;
+}
+.att_list_img{
+	padding:4px;
+}
+.att_list_content_title{
+	font-weight:bold;
+	font-size:14px;
+	padding:4px;
+	height:40px;
+	overflow:hidden;
+}
+.att_list_content_text{
+	line-height:20px;
+	height:45px;
+	padding:4px;
+}
+
+
+
+
+
+.page_left_link_att ul{
+	list-style:none;
+	display:block;
+}
+.page_left_link_s{
+	
+	
+}
+.page_left_link_s_CHECK{
+	margin-top:3px;
+}
+.page_left_link_s a{
+	display:block;
+	width:170px;
+	padding-left:10px;
+	padding-top:4px;
+	padding-bottom:4px;
+	color:#333;
+	font-size:12px;
+	text-decoration:none;
+}
+.page_left_link_s a:hover{
+	text-decoration:none;
+	color:#c89a68;
+	font-size:12px;
+}
+
+.page_left_link_s_CHECK a{
+	display:block;
+	width:170px;
+	padding-left:10px;
+	padding-top:4px;
+	padding-bottom:4px;
+	color:#c89a68;
+	font-size:12px;
+	text-decoration:none;
+}
+.page_left_link_s_CHECK a:hover{
+	text-decoration:none;
+	color:#fecd67;
+	font-size:12px;
+}
+
+/***********************************************/
+#att_content_title{
+	height:76px;
+}
+#att_news{
+	width:732px;
+	min-height:300px;
+}
+#att_news_left{
+	width:365px;
+	min-height:400px;
+	float:left;
+}
+#att_news_right{
+	width:345px;
+	margin-left:18px;
+	float:left;
+}
+.att_news_list{
+	width:365px;
+	height:120px;
+	cursor:pointer;
+	float:left;
+	
+}
+.att_news_list a{
+	display:block;
+	text-decoration:none;
+	cursor:pointer;
+}
+.att_news_content{
+	width:365px;
+	background:url("images_bg_1-1.jpg")/*tpa=http://www.blackant.cn/eng/images/images_bg_1.jpg*/;
+	color:#000000;
+}
+.att_news_img{
+	width:175px;
+	height:111px;
+	float:left;
+}
+.att_news_text{
+	width:185px;
+	height:111px;
+	float:left;
+	
+}
+.att_news_text_title{
+
+	width:160px;
+	font-size:16px;
+	font-weight:bold;
+	margin-top:5px;
+	margin-left:20px;
+	height:40px;
+}
+
+.att_news_text_content{
+	width:160px;
+	margin-left:20px;
+	font-size:12px;
+	margin-top:5px;
+	height:60px;
+	line-height:20px;
+	overflow:hidden;
+
+}
+
+.att_news_right_line{
+	height:1px;
+	border-bottom:1px solid #999;
+}
+.att_news_right_content{
+	padding-top:8px;
+	padding-bottom:8px;
+	cursor:pointer;
+}
+.att_news_right_title{
+	font-size:16px;
+	font-weight:bold;
+}
+.att_news_right_text{
+	margin-top:5px;
+	min-height:35px;
+}
+.att_news_right_content a{
+	display:block;
+	color:#000000;
+	text-decoration:none;
+}
+.att_news_right_content a:hover{
+	color:#c89a68;
+	text-decoration:none;
+}
+
+
+/******************************************************/
+#his_content_title{
+	width:545px;
+	height:76px;
+}
+#his_content{
+}
+
+.att_list_more{
+	width:46px;
+	height:16px;
+	display:block;
+	margin-left:10px;
+	
+}
+.att_list_more a{
+	width:46px;
+	height:16px;
+	display:block;
+	background:url("att.more-1.jpg")/*tpa=http://www.blackant.cn/eng/images/att.more.jpg*/ no-repeat;
+}
+.att_list_more a:hover{
+	width:46px;
+	height:16px;
+	display:block;
+	background-position:0px -16px;
+}
+

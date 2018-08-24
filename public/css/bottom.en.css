@@ -1,0 +1,171 @@
+/* CSS Document */
+#index_backtop{
+	height:14px;
+	margin:0 auto;
+	width:980px;
+	text-align:right;
+}
+#backtop_img{
+	width:13px;
+	margin-left:742px;
+	float:left;
+	margin-top:1px;
+}
+#backtop_text{
+	width:74px;
+	float:left;
+	text-align:right;
+}
+#backtop_text a{
+	color:#999;
+}
+#backtop_text a:hover{
+	color:#000000;
+	text-decoration:none;
+}
+
+#index_intro{
+	margin:0 auto;
+	width:980px;
+}
+#index_intro_left{
+	width:732px;
+	float:left;
+
+	min-height:100px !important;
+	border-top:1px solid #999;
+}
+
+.intro_area{
+	width:115px;
+	float:left;
+	margin-top:10px;
+}
+.intro_area_margin2{
+	margin-right:12px;
+}
+.intro_area_margin{
+	margin-right:5px;
+}
+.intro_area_title{
+	font-weight:bold;
+	margin-top:5px;
+}
+.intro_area li{
+	list-style:none outside;
+	margin-top:5px;
+	font-size:12px;
+	color:#666666;
+}
+#index_intro_right{
+	width:236px;
+	min-height:100px !important;
+	float:left;
+	border-top:1px solid #999;
+	margin-left:11px;
+}
+/****************************************/
+#index_bottom{
+	width:980px;
+	margin:0 auto;
+	min-height:55px !important;
+}
+#index_bottom_left{
+	width:622px;
+	float:left;
+	height:45px;
+}
+#index_bottom_left li{
+	list-style:none outside;
+	float:left;
+	margin-right:6px;
+}
+#index_bottom_right{
+	margin-left:8px;
+	width:349px;
+	float:left;
+	font-size:8px !important;
+	min-height:50px !important;
+}
+
+#index_bottom_link{
+	
+	height:28px;
+	background:url("images_bg-3.jpg")/*tpa=http://www.blackant.cn/eng/images/images_bg.jpg*/;
+}
+#index_bottom_link_txt{
+	font-size:10px;
+	margin-right:105px;
+}
+#index_bottom_link_txt a{
+	color:#999999;
+}
+#index_bottom_link_txt a:hover{
+	color:#333;
+	text-decoration:none;
+}
+#index_bottom_link_txt span{
+	font-size:10px !important;
+}
+#index_bottom_link span{
+	margin-left:5px;
+}
+#index_bottom_line{
+	height:5px;
+	border-top:1px solid #666;
+	margin-top:2px;
+}
+#index_bottom_copyright{
+	font-size:8px;
+}
+#index_bottom_copyright span{
+	color:#666666;
+	margin-left:2px;
+	font-size:8px;
+}
+#sub_email_title{
+	font-weight:bold;
+	font-size:12px;
+}
+#subemail{
+	border:1px solid #333;
+	width:210px;
+	padding-left:26px;
+	background:url("subemailbg-1.jpg")/*tpa=http://www.blackant.cn/eng/images/subemailbg.jpg*/ no-repeat;
+	background-position:2px 2px;
+	color:#999999;
+	font-size:12px;
+}
+#bottom_submit_div li{
+	list-style:none;
+	float:left;
+}
+.bottom_submit_line{
+	width:1px;
+	border-left:1px solid #999;
+	height:12px;
+	margin-top:5px;
+	margin-left:8px;
+	margin-right:8px;
+	
+}
+#bottom_submit_div a{
+	display:block;
+	width:60px;
+	height:22px;
+	text-align:center;
+	line-height:22px;
+	color:#999;
+	text-decoration:none;
+}
+#bottom_submit_div a:hover{
+	background:#000000;
+	color:#FFFFFF;
+	text-decoration:none;
+}
+.bottom_rss_img{
+	margin-top:3px;
+	margin-left:5px;
+}
+
+

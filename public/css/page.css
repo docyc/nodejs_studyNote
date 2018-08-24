@@ -1,0 +1,1633 @@
+/* CSS Document */
+
+#images_back{
+
+	margin:0 auto;
+
+	width:980px;
+
+}
+
+#images_shadow{
+
+	padding:4px;
+
+	width:972px;
+
+	height:260px;
+
+	background:url("images_bg.jpg")/*tpa=http://www.blackant.cn/images/images_bg.jpg*/;
+
+}
+
+#page_img_back{
+
+	margin:0 auto;
+
+	width:980px;
+
+}
+
+#page_img{
+
+	width:972px;
+
+	padding:4px;
+
+	background:url("images_bg.jpg")/*tpa=http://www.blackant.cn/images/images_bg.jpg*/;
+
+}
+
+.page_line{
+
+	width:980px;
+
+	margin:0 auto;
+
+	height:1px;
+
+	background:#999;
+
+}
+
+#page_index_link{
+
+	height:24px;
+
+	width:980px;
+
+	margin:0 auto;
+
+}
+
+#page_index_link li{
+
+	list-style: none outside;
+
+	float:left;
+
+	margin-right:6px;
+
+}
+
+.index_link_next{
+
+	width:5px;
+
+	height:13px;
+
+	background:url("index_link_next.jpg")/*tpa=http://www.blackant.cn/images/index_link_next.jpg*/;
+
+	margin-top:1px;
+
+}
+
+.index_link_nowpage{
+
+	color:#00ccff;
+
+}
+
+/******************************/
+
+#page_title{
+
+		width:980px;
+
+		margin:0 auto;
+
+}
+
+#page_content{
+
+	width:980px;
+
+	margin:0 auto;
+
+	min-height:220px !important;
+
+}
+
+#page_content_left{
+
+	width:162px;
+
+	float:left;
+
+	min-height:100px !important;
+
+}
+
+.page_name{
+
+	font-size:14px;
+
+	line-height:14px;
+
+}
+
+.jump_menu{
+
+	
+
+}
+
+/************************************************/
+
+#page_content_link{
+
+	padding:0px;
+
+	
+
+}
+
+.page2_content_jiange{
+
+	height:35px;
+
+	clear:both;
+
+}
+
+/******************各个页面的链接背景不同********************/
+
+.page_left_link_1314{
+
+	
+
+	margin-bottom:3px;
+
+}
+
+.page_left_link_1314 a{
+
+	display:block;
+
+	padding-left:10px;
+
+	padding-top:3px;
+
+	padding-bottom:3px;
+
+	text-decoration:none;
+
+	color:#333;
+
+	font-size:12px;
+
+	background:#e3e3e3;
+
+}
+
+.page_left_link_1314 a:hover{
+
+	background:#6666cc;
+
+	text-decoration:none;
+
+	color:#fff;
+
+	font-size:12px;
+
+	
+
+}
+
+
+
+
+
+
+
+
+
+.page_left_link_1314_CHECK{
+
+	
+
+	margin-bottom:3px;
+
+}
+
+.page_left_link_1314_CHECK a{
+
+	display:block;
+
+	padding-left:10px;
+
+	padding-top:3px;
+
+	padding-bottom:3px;
+
+	text-decoration:none;
+
+	color:#fff;
+
+	font-size:12px;
+
+	background:#6666cc;
+
+}
+
+.page_left_link_1314_CHECK a:hover{
+
+	background:#6666cc;
+
+	text-decoration:none;
+
+	color:#fff;
+
+	font-size:12px;
+
+	
+
+}
+
+/******************各个页面的链接背景不同********************/
+
+.page_left_link_res{
+
+	margin-bottom:3px;
+
+}
+
+.page_left_link_res a{
+
+	display:block;
+
+	padding-left:10px;
+
+	padding-top:2px;
+
+	padding-bottom:2px;
+
+	text-decoration:none;
+
+	color:#333;
+
+	font-size:12px;
+
+	background:#e3e3e3;
+
+}
+
+.page_left_link_res a:hover{
+
+	background:#00caff;
+
+	text-decoration:none;
+
+	color:#fff;
+
+	font-size:12px;
+
+	
+
+}
+
+
+
+
+
+
+
+
+
+.page_left_link_res_CHECK{
+
+	margin-bottom:3px;
+
+}
+
+.page_left_link_res_CHECK a{
+
+	display:block;
+
+	padding-left:10px;
+
+	padding-top:2px;
+
+	padding-bottom:2px;
+
+	text-decoration:none;
+
+	color:#fff;
+
+	font-size:12px;
+
+	background:#00caff;
+
+}
+
+.page_left_link_res_CHECK a:hover{
+
+	background:#00caff;
+
+	text-decoration:none;
+
+	color:#fff;
+
+	font-size:12px;
+
+	
+
+}
+
+/******************各个页面的链接背景不同********************/
+
+.page_left_link_att{
+
+margin-bottom:3px;
+
+}
+
+.page_left_link_att a{
+
+	display:block;
+
+	padding-left:10px;
+
+	padding-top:2px;
+
+	padding-bottom:2px;
+
+	text-decoration:none;
+
+	color:#333;
+
+	font-size:12px;
+
+	background:#e3e3e3;
+
+}
+
+.page_left_link_att a:hover{
+
+	background:#e09b64;
+
+	text-decoration:none;
+
+	color:#fff;
+
+	font-size:12px;
+
+	
+
+}
+
+
+
+
+
+.page_left_link_att_CHECK{
+
+	
+
+	margin-bottom:3px;
+
+}
+
+.page_left_link_att_CHECK a{
+
+	display:block;
+
+	padding-left:10px;
+
+	padding-top:2px;
+
+	padding-bottom:2px;
+
+	text-decoration:none;
+
+	color:#fff;
+
+	font-size:12px;
+
+	background:#e09b64;
+
+}
+
+.page_left_link_att_CHECK a:hover{
+
+	background:#e09b64;
+
+	text-decoration:none;
+
+	color:#fff;
+
+	font-size:12px;
+
+	
+
+}
+
+/**********组织机构***********/
+
+/******************各个页面的链接背景不同********************/
+
+.page_left_link_org{
+	margin-bottom:3px;
+}
+
+.page_left_link_org a{
+	display:block;
+	padding-left:10px;
+	padding-top:2px;
+	padding-bottom:2px;
+	text-decoration:none;
+	color:#333;
+	font-size:12px;
+	background:#e3e3e3;
+}
+
+.page_left_link_org a:hover{
+	background:#ffcc66;
+	text-decoration:none;
+	color:#fff;
+	font-size:12px;
+}
+.page_left_link_org_CHECK{
+  margin-bottom:3px;
+}
+.page_left_link_org_CHECK a{
+	display:block;
+	padding-left:10px;
+	padding-top:2px;
+	padding-bottom:2px;
+	text-decoration:none;
+	color:#fff;
+	font-size:12px;
+	background:#ffcc66;
+}
+
+.page_left_link_org_CHECK a:hover{
+	background:#ffcc66;
+	text-decoration:none;
+	color:#fff;
+	font-size:12px;
+}
+
+/******************各个页面的链接背景不同********************/
+
+/***********************************/
+
+.page_left_link_div{
+
+	
+
+	margin-bottom:3px;
+
+}
+
+.page_left_link_div a{
+
+	display:block;
+
+	padding-left:10px;
+
+	padding-top:2px;
+
+	padding-bottom:2px;
+
+	text-decoration:none;
+
+	color:#333;
+
+	font-size:12px;
+
+	background:#e3e3e3;
+
+}
+
+.page_left_link_div a:hover{
+
+	background:#67999a;
+
+	text-decoration:none;
+
+	color:#fff;
+
+	font-size:12px;
+
+	
+
+}
+
+
+
+
+
+
+
+
+
+.page_left_link_div_CHECK{
+
+	
+
+	margin-bottom:3px;
+
+}
+
+.page_left_link_div_CHECK a{
+
+	display:block;
+
+	padding-left:10px;
+
+	padding-top:2px;
+
+	padding-bottom:2px;
+
+	text-decoration:none;
+
+	color:#fff;
+
+	font-size:12px;
+
+	background:#67999a;
+
+}
+
+.page_left_link_div_CHECK a:hover{
+
+	background:#67999a;
+
+	text-decoration:none;
+
+	color:#fff;
+
+	font-size:12px;
+
+	
+
+}
+
+.div_news_right_line{
+
+	height:1px;
+
+	border-bottom:1px solid #999;
+
+}
+
+.div_news_right_content{
+
+	padding:8px;
+
+	cursor:pointer;
+
+}
+
+.div_news_right_title{
+
+	font-size:16px;
+
+	font-weight:bold;
+
+}
+
+.div_news_right_text{
+
+	margin-top:5px;
+
+	min-height:35px;
+
+}
+
+.div_news_right_content a{
+
+	display:block;
+
+	color:#000000;
+
+	text-decoration:none;
+
+}
+
+.div_news_right_content a:hover{
+
+	color:#67999a;
+
+	text-decoration:none;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+/**********/
+
+#page_content_center{
+
+	width:730px;
+
+	float:left;
+
+	min-height:400px !important;
+
+	margin-left:24px;
+
+}
+
+#page_content_right{
+
+	width:50px;
+
+	float:left;
+
+	min-height:50px !important;
+
+	margin-left:12px;
+
+}
+
+.content_right_back{
+
+	width:50px;
+
+	height:76px;
+
+	background:url("images_bg.jpg")/*tpa=http://www.blackant.cn/images/images_bg.jpg*/;
+
+}
+
+#page2_pofile_title{
+
+	height:76px;
+
+	width:480px;
+
+	float:left;
+
+}
+
+/***************************************/
+
+#contact_content{
+
+	height:200px;
+
+}
+
+.contact_list{
+
+	margin-top:14px;
+
+	line-height:14px;
+
+}
+
+
+
+.contact_title{
+
+	font-size:12px;
+
+	font-weight:bold;
+
+}
+
+.contact_txt{
+
+	color:#333333;
+
+	font-size:12PX;
+
+}
+
+
+
+
+
+/*************************组织机构**************************/
+
+#shownews_left{
+
+	width:525px;
+
+	float:left;
+
+	min-height:400px;
+
+	padding:0px;
+
+}
+
+#shownews_right{
+	width:175px;
+	margin-left:30px;
+	float:left;
+}
+
+#shownews_right_logo{
+	width:175px;
+}
+#page1314_pofile_text{
+	min-height:120px;
+	line-height:20px;
+}
+
+
+
+#shownews_title{
+
+	font-size:30px;
+
+	font-weight:bold;
+
+
+
+
+
+}
+
+#shownews_info{
+
+	padding:5px 5px 5px 0px;
+
+	color:#999;
+
+}
+
+#shownews_content{
+
+	line-height:20px;
+
+	color:#444;
+
+}
+
+#shownews_laste{
+
+	font-size:14px;
+
+	font-weight:bold;
+
+	color:#666;
+
+	padding:0px 0px 5px 0px;
+
+}
+
+
+
+#show_share{
+
+}
+
+.show_share_title{
+
+	line-height:18px;
+
+}
+
+#show_share li{
+
+	list-style:none outside;
+
+	line-height:18px;
+
+	height:20px;
+
+	margin-top:5px;
+
+}
+
+.show_share_icon{
+
+	float:left;
+
+	display:block;
+
+	height:14px;
+
+	width:20px;
+
+	padding-top:2px;
+
+}
+
+.show_share_txt{
+
+	float:left;
+
+	display:block;
+
+	margin-left:10px;
+
+
+
+}
+
+
+
+
+
+#show_work_title{
+
+	height:76px;
+
+}
+
+#show_work_title_name{
+
+}
+
+.work_right_back{
+
+	width:50px;
+
+	height:76px;
+
+	background:url("images_bg.jpg")/*tpa=http://www.blackant.cn/images/images_bg.jpg*/;
+
+}
+
+.show_work_client{
+
+	color:#999;
+
+	line-height:20px;
+
+}
+
+.show_work_date{
+
+	color:#999;
+
+	line-height:20px;
+
+}
+
+#work_show_left{
+
+	width:525px;
+
+	float:left;
+
+}
+
+#work_show_right{
+
+	width:175px;
+
+	margin-left:20px;
+
+	float:left;
+
+}
+
+.show_work_content{
+
+	color:#666;
+
+	min-height:350px;
+
+}
+
+
+
+
+
+
+
+/****************************************************/
+
+.DIV_list_cor{
+	width:236px;
+	margin-right:12px;
+	height:330px;
+	float:left;
+}
+
+.DIV_list{
+	width:236px;
+	height:280px;
+	float:left;
+}
+
+.DIV_list_back{
+	height:290px;
+	background:url("images_bg_1.jpg")/*tpa=http://www.blackant.cn/images/images_bg_1.jpg*/;
+}
+
+.DIV_list_line{
+	border-top:4px solid #666;
+	background:#666;
+	display:block;
+}
+.DIV_list_jiange{
+	width:12px;
+	height:245px;
+	float:left;
+}
+.DIV_list_title
+{
+	line-height:20px;
+	height:40px;
+}
+.DIV_list_title_txt_1{
+	display:block;
+	float:left;
+	font-weight:bold;
+	font-size:16px;
+	width:300px;
+}
+.DIV_list_title_more_1{
+	display:block;
+	float:left;
+	font-size:11px;
+	margin-left:140px;
+	margin-top:5px;
+}
+
+.DIV_list_title_txt{
+	display:block;
+	float:left;
+	font-weight:bold;
+	font-size:16px;
+	margin-top:4px;
+	width:200px;
+}
+.DIV_list_title_more{
+	display:block;
+	float:left;
+	font-size:11px;	
+	margin-top:5px;
+}
+.DIV_list_img{
+	padding:4px;
+}
+.DIV_list_content_title{
+	font-weight:bold;
+	font-size:14px;
+	padding:4px;
+	margin-top:5px;
+}
+
+.DIV_list_content_text{
+	line-height:20px;
+	height:60px;
+	overflow:hidden;
+	margin-top:8px;
+	padding:0px 4px 0px 4px;
+	margin-bottom:8px;
+
+}
+
+
+
+.org_list_more{
+	width:46px;
+	height:16px;
+	display:block;
+	margin-left:10px;
+	background:url("organization.more.jpg")/*tpa=http://www.blackant.cn/images/organization/organization.more.jpg*/ no-repeat;
+}
+.org_list_more a{
+	width:46px;
+	height:16px;
+	display:block;
+}
+.org_list_more a:hover{
+	width:46px;
+	height:16px;
+	display:block;
+}
+.div_list_more{
+	width:46px;
+	height:16px;
+	display:block;
+	margin-left:10px;
+	background:url("Diversification_more.jpg")/*tpa=http://www.blackant.cn/images/organization/Diversification_more.jpg*/ no-repeat;
+}
+.div_list_more a{
+	width:46px;
+	height:16px;
+	display:block;
+}
+.div_list_more a:hover{
+	width:46px;
+	height:16px;
+	display:block;
+}
+
+
+
+
+/*************************资源整合***********************/
+
+.buddy_line{
+
+	width:729px;
+
+}
+
+.buddy_title_top{
+
+	min-height:50px;
+
+}
+
+.buddy_title_top_1{
+
+	font-size:22px;
+
+}
+
+.buddy_title_top_2{
+
+	font-size:16px;
+
+}
+
+.buddy_content_1{
+
+	width:100%;
+
+}
+
+.buddy_content_2{
+
+	width:356px;
+
+	float:left;
+
+}
+
+.buddy_content_4{
+
+	width:170px;
+
+	float:left;
+
+}
+
+.buddy_content_magin{
+
+	margin-right:15px;
+
+}
+
+
+
+.buddy_content_title{
+
+	font-size:12px;
+
+	font-weight:bold;
+
+}
+
+
+
+.buddy_content_line{
+
+	height:5px;
+
+	border-bottom:4px solid #CCC;
+
+}
+
+.buddy_content_intro{
+
+	color:#9acc99;
+
+	font-size:12px;
+
+	font-weight:bold;
+
+}
+
+.buddy_content_list_4 li{
+
+	list-style:none outside;
+
+	color:#666;
+
+	margin-top:10px;
+
+}
+
+.buddy_content_list_2 li{
+
+	list-style:none outside;
+
+	color:#666;
+
+	width:170px;
+
+	margin-right:5px;
+
+	float:left;
+
+	margin-top:10px;
+
+}
+
+.buddy_content_list_1 li{
+
+	list-style:none outside;
+
+	color:#666;
+
+	width:168px;
+
+	margin-right:8px;
+
+	float:left;
+
+	margin-top:10px;
+
+}
+
+.buddy_content_list_63 li{
+
+	list-style:none outside;
+
+	color:#666;
+
+	width:358px;
+
+	margin-right:5px;
+
+	float:left;
+
+	margin-top:10px;
+
+}
+
+.buddy_content_list_a a{
+
+	font-size:12px;
+
+	text-decoration:none;
+
+	color:#666;
+
+}
+
+.buddy_content_list_a a:hover{
+
+	font-size:12px;
+
+	text-decoration:none;
+
+	color:#666;
+
+}
+
+
+
+#apply_title{
+
+	color:#6567cc;
+
+}
+
+.apply_input{
+
+	width:410px;
+
+	padding:3px;
+
+	border:1px solid #999;
+
+	color:#666;
+
+}
+.apply_input_short{
+	width:142px;
+	padding:3px;
+	border:1px solid #999;
+	color:#666;
+}
+
+.apply_button{
+	width:98px;
+	height:25px;
+	border:none;
+	background:url("apply_buttom.png")/*tpa=http://www.blackant.cn/images/apply_buttom.png*/;
+	padding:0px;
+	cursor:pointer;
+}
+
+.apply_reset{
+
+	border:none;
+
+	background:none;
+
+	color:#666;
+
+	cursor:pointer;
+
+}
+
+.apply_input_date{
+
+	width:120px;
+
+	padding:3px;
+
+	border:1px solid #999;
+
+	color:#666;
+
+}
+
+
+
+.apply_content_color{
+
+	color:#6567cc;
+
+}
+
+
+
+#sitemap_index{
+
+}
+
+#sitemap_index a{
+
+	color:#000000;
+
+}
+
+#sitemap_index a:hover{
+
+	color:#00caff;
+
+	text-decoration:none;
+
+}
+
+.sitemap_title_en{
+
+	font-size:28px;
+
+	font-family:Arial, Helvetica, sans-serif;
+
+	font-weight:bold;
+
+	padding:5px;
+
+}
+
+.sitemap_title_ch{
+
+	font-family:"微软雅黑", "黑体", "宋体";
+
+	padding:5px;
+
+	font-size:16px;
+
+}
+
+.sitmap_thr_list{
+
+}
+
+.sitmap_thr_list li{
+
+	list-style:none outside;
+
+}
+
+.sitmap_thr_list a{
+
+	padding:5px 0px 5px 0px;
+
+	display:block;
+
+}
+
+
+
+.sitemap_top_title1{
+
+}
+
+.sitemap_top_title1 a{
+
+	color:#000000;
+
+}
+
+.sitemap_top_title1 a:hover{
+
+	color:#cc9966;
+
+	text-decoration:none;
+
+}
+
+.sitemap_top_title2 a{
+
+	color:#000000;
+
+}
+
+.sitemap_top_title2 a:hover{
+
+	color:#ffcc66;
+
+	text-decoration:none;
+
+}
+
+.sitemap_top_title3 a{
+
+	color:#000000;
+
+}
+
+.sitemap_top_title3 a:hover{
+
+	color:#669999;
+
+	text-decoration:none;
+
+}
+
+.sitemap_top_title4 a{
+
+	color:#000000;
+
+}
+
+.sitemap_top_title4 a:hover{
+
+	color:#99cc99;
+
+	text-decoration:none;
+
+}
+
+.sitemap_top_title5 a{
+
+	color:#000000;
+
+}
+
+.sitemap_top_title5 a:hover{
+
+	color:#00caff;
+
+	text-decoration:none;
+
+}
+
+.sitemap_top_title6 a{
+
+	color:#000000;
+
+}
+
+.sitemap_top_title6 a:hover{
+
+	color:#6666cc;
+
+	text-decoration:none;
+
+}
+
+
+
+.sitemap_list_link1{
+
+}
+
+.sitemap_list_link1 a{
+
+	color:#000000;
+
+}
+
+.sitemap_list_link1 a:hover{
+
+	color:#cc9966;
+
+	text-decoration:none;
+
+}
+
+.sitemap_list_link2 a{
+
+	color:#000000;
+
+}
+
+.sitemap_list_link2 a:hover{
+
+	color:#ffcc66;
+
+	text-decoration:none;
+
+}
+
+.sitemap_list_link3 a{
+
+	color:#000000;
+
+}
+
+.sitemap_list_link3 a:hover{
+
+	color:#669999;
+
+	text-decoration:none;
+
+}
+
+.sitemap_list_link4 a{
+
+	color:#000000;
+
+}
+
+.sitemap_list_link4 a:hover{
+
+	color:#99cc99;
+
+	text-decoration:none;
+
+}
+
+.sitemap_list_link5 a{
+
+	color:#000000;
+
+}
+
+.sitemap_list_link5 a:hover{
+
+	color:#00caff;
+
+	text-decoration:none;
+
+}
+
+.sitemap_list_link6 a{
+
+	color:#000000;
+
+}
+
+.sitemap_list_link6 a:hover{
+
+	color:#6666cc;
+
+	text-decoration:none;
+
+}
+
+#sitemap_pri_link1{
+
+}
+
+#sitemap_pri_link1 a{
+
+	color:#000000;
+
+}
+
+#sitemap_pri_link1 a:hover{
+
+	color:#cc9966;
+
+	text-decoration:none;
+
+}
+
+#sitemap_pri_link2 a{
+
+	color:#000000;
+
+}
+
+#sitemap_pri_link2 a:hover{
+
+	color:#ffcc66;
+
+	text-decoration:none;
+
+}
+
+#sitemap_pri_link3 a{
+
+	color:#000000;
+
+}
+
+#sitemap_pri_link3 a:hover{
+
+	color:#669999;
+
+	text-decoration:none;
+
+}
+
+#sitemap_pri_link4 a{
+
+	color:#000000;
+
+}
+
+#sitemap_pri_link4 a:hover{
+
+	color:#99cc99;
+
+	text-decoration:none;
+
+}
+
+#sitemap_pri_link5 a{
+
+	color:#000000;
+
+}
+
+#sitemap_pri_link5 a:hover{
+
+	color:#00caff;
+
+	text-decoration:none;
+
+}
+
+#sitemap_pri_link6 a{
+
+	color:#000000;
+
+}
+
+#sitemap_pri_link6 a:hover{
+
+	color:#6666cc;
+
+	text-decoration:none;
+
+}
+.branch_works_title{
+	height:15px;
+	
+}
+.branch_works_title_name{
+	width:300px;
+	float:left;
+	height:15px;
+}
+.branch_works_title_turnpage{
+	width:430px;
+	height:15px;
+	float:left;
+	text-align:right;
+}
+
+.branch_works_title_turnpage span{
+	display:block;
+	float:right;
+	margin-left:3px;
+}
+.branch_works1_title_turnpage{
+	height:15px;
+	text-align:right;
+}
+
+.branch_works1_title_turnpage span{
+	display:block;
+	float:right;
+	margin-left:3px;
+}
+.turnpage_checked a{
+	padding:0px 4px 0px 4px;
+	background:#fdce5a;
+	color:#333;
+}
+.turnpage_checked a:hover{
+	background:#fdce5a;
+	color:#333;
+}
+.turnpage_nochecked a{
+	display:block;
+	padding:0px 4px 0px 4px;
+	color:#999;
+	
+}
+.turnpage_nochecked a:hover{
+	color:#333;
+
+}
+

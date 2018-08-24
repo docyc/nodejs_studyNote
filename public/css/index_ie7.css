@@ -1,0 +1,141 @@
+/* CSS Document */
+
+
+/***********************************/
+#images_back{
+	margin:0 auto;
+	width:980px;
+}
+#images_shadow{
+	padding:4px;
+	width:972px;
+	height:260px;
+	background:url("images_bg.jpg")/*tpa=http://www.blackant.cn/images/images_bg.jpg*/;
+}
+/*******************************************/
+#index_line{
+	border-top:1px solid #999;
+	height:20px;
+	width:980px;
+	margin:0 auto;
+}
+
+#index_content{
+	width:980px;
+	margin:0 auto;
+}
+#index_Diversification{
+	width:485px;
+	float:left;
+	height:100px;
+	min-height:100px !important;
+}
+.index_content_line{
+	border-top:4px solid #666;
+	background:#666;
+	height:1px;
+}
+#Divers_title{
+	height:34px;
+}
+#Divers_title_name{
+	width:440px;
+	float:left;
+
+}
+#Divers_title_more
+{
+	width:44px;
+	float:left;
+	font-size:10px;
+	margin-top:18px;
+	text-align:right;
+}
+#Divers_images_back{
+	height:245px;
+	margin-top:10px;
+
+}
+
+
+
+#product_img{
+	width:392px;
+	height:243px;
+	margin-top:1px;
+	margin-left:92px;
+}
+
+#index_act{
+	width:482px;
+	float:left;
+	height:290px;
+	margin-left:10px;
+}
+#index_act_title{
+	height:34px;
+}
+#index_act_title_name{
+	float:left;
+	width:437px;
+
+	
+}
+#index_act_carousel{
+	margin:0px;
+	padding:0px;
+}
+#index_act_title_more
+{
+	width:44px;
+	float:left;
+	font-size:10px;
+	margin-top:15px;
+	text-align:right;
+}
+.index_right{
+	width:236px;
+	margin-right:10px;
+	float:left;
+}
+.index_right_title{
+	height:30px;	
+}
+.index_right_title_name{
+	font-weight:bold;
+	font-size:14px;	
+}
+.index_right_title_more{
+	font-size:10px;
+	font-weight:bold;
+}
+.index_content{
+	margin-top:10px;
+	height:245px;
+	background-image:url("images_bg.jpg")/*tpa=http://www.blackant.cn/images/images_bg.jpg*/;
+}
+/*************************************************/
+.index_act_list_more{
+	width:46px;
+	height:16px;
+	display:block;
+	margin-left:10px;
+	background:url("index_act_more.png")/*tpa=http://www.blackant.cn/images/index_act_more.png*/ no-repeat;
+	
+}
+.index_act_list_content_title{
+	font-weight:bold;
+	font-size:12px;
+	padding:4px;
+	margin-top:0px;
+	margin-left:6px;
+	text-decoration:none;
+	height:26px;
+}
+.index_act_list_content_text{
+	line-height:20px;
+	height:55px;
+	overflow:hidden;
+	margin-left:6px;
+	text-decoration:none;
+}

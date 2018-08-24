@@ -1,0 +1,16 @@
+/* jQuery jcTabs css */
+.tabswrap_org { width:720px; height:262px; position:relative; }
+.tabs_org { list-style:none; position:absolute; z-index:1; height:25px; float:left; margin-left:4px; left:702px;}
+.tabs_org li { display:block; width:13px; height:13px; margin-top:5px; line-height:15px; text-align:center; color:#fff; cursor:pointer;  text-shadow:-1px -1px 0 #039; background:#666666; }
+.tabs_org li.select { color:#4382b7; width:13px; font-weight:bold; text-shadow:1px 1px 0 #fff; background:#FBC100; }
+.tabs_org li.select1 { color:#4382b7; text-shadow:1px 1px 0 #fff; background:#cc9966; }
+.tabs_org li.select2 { color:#4382b7; text-shadow:1px 1px 0 #fff; background:#ffcc66; }
+.tabs_org li.select3 { color:#4382b7; text-shadow:1px 1px 0 #fff; background:#669999; }
+.tabs_org li.select4 { color:#4382b7; text-shadow:1px 1px 0 #fff; background:#99cc99; }
+.tabs_org li.select5 { color:#4382b7; text-shadow:1px 1px 0 #fff; background:#00caff; }
+.tabs_org li.select6 { color:#4382b7; text-shadow:1px 1px 0 #fff; background:#6666cc; }
+.tabsCon_org { clear:both; width:720px; height:262px; overflow:hidden;  position:relative; }
+.tabsCon_org .tabsCon_sec_org { position:absolute; left:0; top:0; overflow:hidden; display:none; width:720px; height:262px; }
+.tabsWraper_org { width:720px; height:262px; overflow:hidden;  position:relative; float:left;}
+
+/***************************************************************/

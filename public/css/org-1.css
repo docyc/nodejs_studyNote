@@ -1,0 +1,235 @@
+/* CSS Document */
+#org_list_content{
+	width:980px;
+
+}
+.org_list{
+	width:236px;
+	height:320px;
+}
+.org_list_line{
+	border-top:4px solid #666;
+	background:#666;
+	display:block;
+}
+.org_list_logo{
+	width:195px;
+	height:72px;
+	display:block;
+}
+.org_list_title{
+	display:block;
+	color:#999;
+}
+.org_list_title_txt{
+	display:block;
+	margin-top:1px;
+	font-size:16px;
+	height:40px;
+	overflow:hidden;
+}
+.org_list_content_content{
+	display:block;
+	background:url("images_bg.jpg")/*tpa=http://www.blackant.cn/images/images_bg.jpg*/;
+}
+.org_list_content_txt{
+	padding:10px;
+	height:210px;
+	overflow:hidden;
+	color:#666;
+	line-height:20px;
+}
+
+
+
+/*********************************************************/
+
+#page2_pofile_img{
+	
+	width:200px;
+	min-height:80px;
+	float:left;
+	margin-left:50px;
+}
+#page2_pofile_text{
+	min-height:80px;
+	line-height:20px;
+}
+#page2_works_title_list li{
+	list-style:none;
+	float:left;
+}
+.works_area_line{
+	width:18px;
+	border-left:1px solid #CCC;
+	height:45px;
+	margin-top:5px;
+	float:left;
+	margin-left:6px;
+}
+.org_noncheck{
+width:125px;
+line-height:16px;
+
+}
+.org_check{
+	width:125px;
+	line-height:16px;
+
+
+}
+.org_noncheck a{
+	text-decoration:none;
+	color:#666;
+	display:block;
+	
+}
+.org_noncheck a:hover{
+	color:#fecd67;
+	text-decoration:none;
+}
+.org_check a{
+	text-decoration:none;
+	color:#fecd67;
+}
+.org_check a:hover{
+	color:#fecd67;
+	text-decoration:none;
+}
+.works_title{
+
+
+}
+
+#page2_works_list{
+	
+}
+#page2_works_list li{
+	width:730px;
+	height:220px;
+	list-style:none outside;
+	margin-bottom:20px;
+}
+.works_list{
+	width:175px;
+	height:220px;
+	position:relative;
+	display:block;
+	float:left;
+	margin-right:10px;
+	margin-bottom:20px;
+}
+.works_list_nomagin{
+	width:175px;
+	height:220px;
+	float:left;
+	position:relative;
+	margin-right:0px;
+}
+.works_list a{
+	display:block;
+	text-decoration:none;
+	cursor:pointer;
+}
+
+.works_list_content{
+	width:175px;
+	height:210px;
+	background:url("images_bg_1.jpg")/*tpa=http://www.blackant.cn/images/images_bg_1.jpg*/;
+	color:#999999;
+}
+.works_list_title{
+	font-size:12px;
+	font-weight:bold;
+	padding:5px 8px 5px 8px;
+	margin-top:5px;
+}
+.works_list_text{
+	height:43PX;
+	overflow:hidden;
+	padding:5px 8px 5px 8px;
+
+}
+.works_list_line{
+	border-top:4px solid #666;
+	background:#999;
+	display:block;
+	margin-top:10px;
+}
+
+/********************org*************************/
+
+
+
+
+.page_left_link_org ul{
+	list-style:none;
+	display:block;
+}
+.page_left_link_s{
+	margin-bottom:3px;
+}
+.page_left_link_s_CHECK{
+	margin-bottom:3px;
+}
+.page_left_link_s a{
+	display:block;
+	width:170px;
+	padding-left:10px;
+	padding-top:2px;
+	padding-bottom:2px;
+	color:#333;
+	font-size:12px;
+	text-decoration:none;
+}
+.page_left_link_s a:hover{
+	text-decoration:none;
+	color:#fecd67;
+	font-size:12px;
+}
+
+.page_left_link_s_CHECK a{
+	display:block;
+	width:170px;
+	padding-left:10px;
+	padding-top:2px;
+	padding-bottom:2px;
+	color:#fecd67;
+	font-size:12px;
+	text-decoration:none;
+}
+.page_left_link_s_CHECK a:hover{
+	text-decoration:none;
+	color:#fecd67;
+	font-size:12px;
+}
+
+#pro_img_bg{
+	width:728px;
+	height:270px;
+}
+#pro_images_shadow{
+	width:720px;
+	height:262px;
+	background:url("images_bg.jpg")/*tpa=http://www.blackant.cn/images/images_bg.jpg*/;
+	padding:4px;
+}
+
+#down_title{
+	font-size:14px;
+	font-weight:bold;
+}
+#title_1314{
+	font-size:14px;
+	font-weight:bold;
+}
+#list_1314 li {
+	list-style:none outside;
+	width:350px;
+	float:left;
+	line-height:30px;
+}
+#list_remark{
+	font-weight:bold;
+	color:#fecd67;
+}

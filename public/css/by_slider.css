@@ -1,0 +1,37 @@
+/* jQuery jcTabs css */
+.tabswrap { width:972px; height:260px; position:relative; }
+.tabs { list-style:none; position:relative; top:1px; z-index:1; float:left; margin-left:4px;}
+.tabs li { display:block; width:13px; height:13px; margin-top:5px; line-height:15px; text-align:center; color:#fff; cursor:pointer;  text-shadow:-1px -1px 0 #039; background:#666666; }
+.tabs li.select { color:#4382b7; width:13px; font-weight:bold; text-shadow:1px 1px 0 #fff; background:#00ccff; }
+.tabs li.select1 { color:#4382b7; text-shadow:1px 1px 0 #fff; background:#cc9966; }
+.tabs li.select2 { color:#4382b7; text-shadow:1px 1px 0 #fff; background:#ffcc66; }
+.tabs li.select3 { color:#4382b7; text-shadow:1px 1px 0 #fff; background:#669999; }
+.tabs li.select4 { color:#4382b7; text-shadow:1px 1px 0 #fff; background:#99cc99; }
+.tabs li.select5 { color:#4382b7; text-shadow:1px 1px 0 #fff; background:#00caff; }
+.tabs li.select6 { color:#4382b7; text-shadow:1px 1px 0 #fff; background:#6666cc; }
+.tabsCon { clear:both; width:955px; height:260px; overflow:hidden;  position:relative; }
+.tabsCon .tabsCon_sec { position:absolute; left:0; top:0; overflow:hidden; display:none; width:955px; height:260px; }
+.tabsWraper { width:955px; height:260px; overflow:hidden;  position:relative; float:left;}
+
+/***************************************************************/
+
+/* jQuery jcTabs css */
+.tabswrap_scroll { width:492px; height:290px; position:relative; }
+.tabs_scroll { list-style:none; position:relative; top:1px; z-index:1; height:25px; float:left; margin-left:4px; margin-top:140px; display:none;}
+.tabs_scroll li { display:block; width:13px; height:13px; margin-top:5px; line-height:15px; text-align:center; color:#fff; cursor:pointer;  text-shadow:-1px -1px 0 #039; background:#666666; }
+.tabs_scroll li.select { color:#4382b7; width:13px; font-weight:bold; text-shadow:1px 1px 0 #fff; background:#FBC100; }
+.tabsCon_scroll { clear:both; width:492px; height:290px; overflow:hidden;  position:relative; }
+.tabsCon_scroll .tabsCon_sec_scroll { position:absolute; left:0; top:0; overflow:hidden; display:none; width:492px; height:290px; }
+.tabsWraper_scroll { width:492px; height:290px; overflow:hidden;  position:relative; float:left;}
+
+/***************************************************************/
+
+/* jQuery jcTabs css */
+.tabswrap_product { width:392px; height:244px; position:relative; }
+.tabs_product { list-style:none; position:absolute; top:1px; z-index:100; top:0px; width:104px; height:244px; left:-92px; display:block;}
+.tabs_product li { display:block; height:32px; padding-right:12px; padding-top:16px; width:92px; margin-bottom:1px; line-height:15px; text-align:center; color:#000; cursor:pointer; background:url("../images/images_slider_bg.png"); }
+.tabs_product li.select { color:#fff; background-position:0px -48px; }
+.tabsCon_product { clear:both; width:392px; height:244px; overflow:hidden;  position:relative; }
+.tabsCon_product .tabsCon_sec_product { position:absolute; left:0; top:0; overflow:hidden; display:none; width:392px; height:244px; }
+.tabsWraper_product { width:392px; height:244px; overflow:hidden;  position:relative; float:left;}
+
